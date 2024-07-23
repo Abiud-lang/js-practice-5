@@ -1,0 +1,176 @@
+{
+  "farmProducts": [
+    {
+      "id": "1",
+      "name": "Tomatoes",
+      "description": "Fresh organic tomatoes",
+      "price": 2.5,
+      "image": "https://images.unsplash.com/photo-1658319204254-7ea104bca2e5?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHRvbWF0b2VzfGVufDB8fDB8fHww",
+      "quantityAvailable": 100
+    },
+    {
+      "id": "2",
+      "name": "Carrots",
+      "description": "Crunchy organic carrots",
+      "price": 1.8,
+      "image": "https://media.istockphoto.com/id/1388403435/photo/fresh-carrots-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=XmrTb_nASc7d-4zVKUz0leeTT4fibDzWi_GpIun0Tlc=",
+      "quantityAvailable": 200
+    },
+    {
+      "id": "3",
+      "name": "Lettuce",
+      "description": "Crispy green lettuce",
+      "price": 1.5,
+      "image": "https://media.istockphoto.com/id/1387420863/photo/top-view-of-fresh-butterhead-lettuce-isolated.jpg?s=612x612&w=0&k=20&c=Pz7Lkz6KVnW9q9wgA4oKbLu4jl0hm8EtKlrxgun860M=",
+      "quantityAvailable": 150
+    },
+    {
+      "id": "4",
+      "name": "Spinach",
+      "description": "Fresh spinach leaves",
+      "price": 2,
+      "image": "https://media.istockphoto.com/id/1159979911/photo/spinach-bunch-and-cutting-board-on-dark-grey-blackboard.jpg?s=612x612&w=0&k=20&c=bBIctps1pLcSjZyVN16COMyE_gLQP8E-jO_y59fHu4o=",
+      "quantityAvailable": 120
+    },
+    {
+      "id": "5",
+      "name": "Potatoes",
+      "description": "Organic golden potatoes",
+      "price": 3,
+      "image": "https://media.istockphoto.com/id/692951090/photo/organic-potatoes-on-rustic-background.jpg?s=612x612&w=0&k=20&c=FqudySSH7Mpgjc9_5tDQdGHmFSY5JxrPThNSdipxFqw=",
+      "quantityAvailable": 180
+    },
+    {
+      "id": "6",
+      "name": "Onions",
+      "description": "Sweet red onions",
+      "price": 2.2,
+      "image": "https://media.istockphoto.com/id/690404352/photo/spanish-onions-on-black-slate-background.jpg?s=612x612&w=0&k=20&c=FBcDRIFzVxY3BkOwe0d02AJh92moOTHgWngeDy1Qvww=",
+      "quantityAvailable": 160
+    },
+    {
+      "id": "7",
+      "name": "Cucumbers",
+      "description": "Fresh cucumbers",
+      "price": 1.8,
+      "image": "https://media.istockphoto.com/id/1045761832/photo/fresh-green-cucumber-salad.jpg?s=612x612&w=0&k=20&c=fd_Nz1zp1oRKZchOSITivJmFkcJCPDNHlp8ifXRG0aM=",
+      "quantityAvailable": 140
+    },
+    {
+      "id": "8",
+      "name": "Bell Peppers",
+      "description": "Colorful bell peppers",
+      "price": 2.5,
+      "image": "https://media.istockphoto.com/id/1993983214/photo/colorful-pepper.jpg?s=612x612&w=0&k=20&c=bMZYNVwSTF-t61WNCZN8oZjSrKplXsW9Eu1501N3O38=",
+      "quantityAvailable": 130
+    },
+    {
+      "id": "9",
+      "name": "Zucchini",
+      "description": "Organic green zucchini",
+      "price": 2,
+      "image": "https://media.istockphoto.com/id/1446052267/photo/raw-ripe-zucchinis-in-wicker-bowl-on-wooden-table-top-view.jpg?s=612x612&w=0&k=20&c=wiO_wFezlPlENxQyfEQhQlDQJ7Hvtxj1WzM7b3VTAqQ=",
+      "quantityAvailable": 110
+    },
+    {
+      "id": "10",
+      "name": "Broccoli",
+      "description": "Fresh broccoli",
+      "price": 2.5,
+      "image": "https://media.istockphoto.com/id/1364035705/photo/fresh-broccoli-on-white-background.jpg?s=612x612&w=0&k=20&c=fEcEq65rKBmT8PltpAyg_-na0WomTJ6S6m04uXQQtJs=",
+      "quantityAvailable": 100
+    },
+    {
+      "id": "11",
+      "name": "Cauliflower",
+      "description": "Organic cauliflower",
+      "price": 2.7,
+      "image": "https://media.istockphoto.com/id/90634594/photo/close-up-of-several-heads-of-cauliflower.jpg?s=612x612&w=0&k=20&c=hpYY7BqSUNwM-oq26wNv5pGLSPf4HijXr3zA0J3yd0E=",
+      "quantityAvailable": 90
+    },
+    {
+      "id": "12",
+      "name": "Green Beans",
+      "description": "Fresh green beans",
+      "price": 2.3,
+      "image": "https://media.istockphoto.com/id/182035936/photo/fresh-beans.jpg?s=612x612&w=0&k=20&c=BCPwV719N6jAAiEQgucyVUdNIsDvECS4-sOy0Dbsrbw=",
+      "quantityAvailable": 150
+    },
+    {
+      "id": "13",
+      "name": "Peas",
+      "description": "Organic green peas",
+      "price": 1.9,
+      "image": "https://media.istockphoto.com/id/1885468483/photo/fresh-green-peas-with-pod-in-burlap-sack-on-wooden-background-healthy-green-vegetable-or.jpg?s=612x612&w=0&k=20&c=zSE1VFW8m2cwFIfEKS7w0VaiDfj8k2V8ljHp3cS5E4k=",
+      "quantityAvailable": 200
+    },
+    {
+      "id": "14",
+      "name": "Sweet Corn",
+      "description": "Fresh sweet corn",
+      "price": 3.2,
+      "image": "https://media.istockphoto.com/id/1403057876/photo/fresh-sweet-corn.jpg?s=612x612&w=0&k=20&c=vlB9zwWWUzlYOqVaWgxnkSy0fHqJyPwjY15THRhy5fM=",
+      "quantityAvailable": 170
+    },
+    {
+      "id": "15",
+      "name": "Eggplant",
+      "description": "Organic eggplant",
+      "price": 2.5,
+      "image": "https://media.istockphoto.com/id/1461569558/photo/eggplants-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=CenzvKsBiZIJH-BryhUCD9jIBrV5bknb9PCpNclggFw=",
+      "quantityAvailable": 130
+    },
+    {
+      "id": "16",
+      "name": "Radishes",
+      "description": "Fresh red radishes",
+      "price": 1.6,
+      "image": "https://media.istockphoto.com/id/184276857/photo/radish.jpg?s=612x612&w=0&k=20&c=dB2pH_wZA6huUQtHnektr3VdDi-xQQACGQjW6394L54=",
+      "quantityAvailable": 140
+    },
+    {
+      "id": "17",
+      "name": "Kale",
+      "description": "Organic kale",
+      "price": 2.8,
+      "image": "https://media.istockphoto.com/id/135091129/photo/kale.jpg?s=612x612&w=0&k=20&c=Hp7jsS7S1tkFQuHM3-xzM9egFuLA8dI_MYUWuYGUh1U=",
+      "quantityAvailable": 120
+    },
+    {
+      "id": "18",
+      "name": "Beets",
+      "description": "Fresh red beets",
+      "price": 1.9,
+      "image": "https://media.istockphoto.com/id/493446908/photo/fresh-sliced-beetroot-on-wooden-surface.jpg?s=612x612&w=0&k=20&c=z94X8FkGe5Mm6lN5HcZsGaD4nm_vMlkdlBzhut1spes=",
+      "quantityAvailable": 110
+    },
+    {
+      "id": "19",
+      "name": "Cabbage",
+      "description": "Organic green cabbage",
+      "price": 2.2,
+      "image": "https://media.istockphoto.com/id/673162168/photo/green-cabbage-isolated-on-white.jpg?s=612x612&w=0&k=20&c=mCc4mXATvCcfp2E9taRJBp-QPYQ_LCj6nE1D7geaqVk=",
+      "quantityAvailable": 150
+    },
+    {
+      "id": "20",
+      "name": "Squash",
+      "description": "Fresh yellow squash",
+      "price": 2.5,
+      "image": "https://media.istockphoto.com/id/2053749671/photo/green-zucchini-at-the-farmers-market.jpg?s=612x612&w=0&k=20&c=JUb6SMPPkX9lnw0IOaeE6zw-yHtXLLGHcnjZ4XFISSU=",
+      "quantityAvailable": 100
+    }
+  ],
+  "orders": [
+    {
+      "id": "07a0",
+      "productId": "15",
+      "quantity": 1
+    },
+    {
+      "id": "0d02",
+      "productId": "15",
+      "quantity": 1
+    }
+  ]
+}
